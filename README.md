@@ -1,1 +1,1 @@
-# python_darslarim
+Ushbu faylda python darslariga oid ko'dlar jamlangan
